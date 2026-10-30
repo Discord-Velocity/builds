@@ -29,12 +29,3 @@
  * @link https://github.com/davidmz/apng-canvas
  * @license MIT
  */
-
-Bundled license information:
-
-virtual-merge/dist/index.mjs:
-  /*!
-   * virtual-merge
-   * Copyright (c) 2023 Vendicated
-   * SPDX-License-Identifier: MIT
-   */
